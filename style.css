@@ -32,7 +32,7 @@ body {
   }
   
 .logo-container img {
-    width: 268px ;
+    width: 240px ;
     height: 33px;
   }
  /* navlist */
@@ -51,7 +51,7 @@ body {
 
 .appbar .navlist .navlink a{
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
     font-family:'Roboto', sans-serif;
     color: #747474;
     font-weight:600;
@@ -64,8 +64,8 @@ body {
 
 /* leadsection */
 .leadsection{
-   display: inline-block;
-   margin-top: 8%;
+  display: inline-block;
+  margin-top: 10%;
 }
 /* leadlogo; */
 .leadsection .leadlogo{
@@ -83,14 +83,14 @@ body {
   }
 /* paragraph */
 .paragraph {
-   display: flex;
-   font-family:'Roboto', sans-serif;
-   color: #747474;
-   text-align: left;
-   align-content: space-between 1px;
-   padding: 1.2%;
-   line-height: 1.75;
-   font-weight: 400;
+  display: flex;
+  font-family:'Roboto', sans-serif;
+  color: #747474;
+  text-align: left;
+  align-content: space-between 1px;
+  padding: 1.2%;
+  line-height: 1.75;
+  font-weight: 400;
 }
 /* pays */
 .pays{
@@ -140,10 +140,10 @@ body {
 }
 /* footer */
 footer{
-   border-top: 1px solid #eef2f2;;
-    text-align: center;
-    padding: 1em 0;
-    font-weight: 400;
-    font-family: Roboto,Arial,sans-serif;
-    color: #747474;
+  border-top: 1px solid #eef2f2;;
+  text-align: center;
+  padding: 1em 0;
+  font-weight: 400;
+  font-family: Roboto,Arial,sans-serif;
+  color: #747474;
 }
